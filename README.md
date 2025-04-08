@@ -1,4 +1,4 @@
 # Laboratorio Bioseñales
 ## INTEGRANTES
-- Allisson Rojas cc: 1152223311
-- Fabio Velez   cc:1037648670
+- Allisson Rojas C.C: 1152223311
+- Fabio Vélez Osorio C.C: 1037648670
