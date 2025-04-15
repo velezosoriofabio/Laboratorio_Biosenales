@@ -10,3 +10,7 @@
 1. El archivo de los datos con las señales EEG se encuentra en **Google Drive** y tiene un **enlace público**.
 2. En el notebook se encuentra una celda con el código necesario para cargar el archivo desde Drive.
 3. Ejecutar el código **en orden**, bloque por bloque, para realizarlo correctamente.
+
+## Informe
+1. Se encuentra el archivo.zip donde esta el LATEX
+2. Se encuentra también el PDF del informe
