@@ -15,7 +15,7 @@ Se ha creado un conjunto de datos filtrado llamado `diagnosticfiltered` que cont
 Para optimizar el tiempo de carga y facilitar el procesamiento, se ha decidido almacenar los archivos de datos de las arritmias en formato Parquet, que es un formato eficiente para almacenar y leer grandes volúmenes de datos. Las señales de las arritmias comprimidas en formato Parquet están disponibles en la ruta:
 
 PROYECTO_1/
-├── data/
+└── data/
 │   ├── Diagnostics.xlsx
 │   ├── Diagnosticsfiltered.xlsx              
 │   ├── ECGDataDenoised.zip           
